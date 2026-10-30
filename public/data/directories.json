@@ -234,7 +234,7 @@
       "url": "https://www.brownbook.net/",
       "description": "General business directory for local and online businesses.",
       "type": [
-        "SaaS Directory"
+        "Local Service"
       ],
       "domainRating": 79,
       "submissionType": "free",
@@ -269,9 +269,7 @@
       "url": "https://viesearch.com/",
       "description": "Human-edited search engine and directory for businesses, services, and websites.",
       "type": [
-        "SaaS Directory",
-        "Local Service",
-        "Remote Service"
+        "Local Service"
       ],
       "domainRating": 73,
       "submissionType": "free",
@@ -5071,9 +5069,7 @@
       "url": "",
       "description": "",
       "type": [
-        "SaaS Directory",
-        "Local Service",
-        "Remote Service"
+        "Local Service"
       ],
       "domainRating": 64,
       "submissionType": "free",
@@ -5110,9 +5106,7 @@
       "url": "",
       "description": "",
       "type": [
-        "SaaS Directory",
-        "Local Service",
-        "Remote Service"
+        "Local Service"
       ],
       "domainRating": 61,
       "submissionType": "free",
@@ -7328,12 +7322,11 @@
     },
     {
       "id": "better-business-bureau",
-      "name": "Better Business BureaU",
+      "name": "Better Business Bureau",
       "url": "https://www.bbb.org/get-listed",
-      "description": "Better Business BureaU is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, free to su…",
+      "description": "Better Business Bureau is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, free to su…",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 93,
       "submissionType": "free",
@@ -7398,8 +7391,7 @@
       "url": "https://nextdoor.com/",
       "description": "Nextdoor is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, free to submit, DR 83 au…",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 91,
       "submissionType": "free",
@@ -7448,8 +7440,7 @@
       "url": "https://angieslist.com/",
       "description": "Angie's List is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, free to submit, DR 8…",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 90,
       "submissionType": "free",
@@ -7497,8 +7488,7 @@
       "url": "https://yellowpages.com/",
       "description": "YellowPages is for local brick-and-mortar businesses — not for listing SaaS or digital products. (dofollow listing, free to submit, DR 90 authority)",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 90,
       "submissionType": "free",
@@ -7597,8 +7587,7 @@
       "url": "https://www.manta.com/",
       "description": "Manta is for local brick-and-mortar businesses — not for listing SaaS or digital products. (dofollow listing, free to submit)",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 86,
       "submissionType": "free",
@@ -7731,8 +7720,7 @@
       "url": "https://ezlocal.com/",
       "description": "EZLocal is for local brick-and-mortar businesses — not for listing SaaS or digital products. (dofollow listing, free to submit)",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 81,
       "submissionType": "free",
@@ -7799,8 +7787,7 @@
       "url": "https://www.bingplaces.com/",
       "description": "Bing Places is for local brick-and-mortar businesses — not for listing SaaS or digital products. (free to submit, relatively easy submit, DR 91 authority)",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 80,
       "submissionType": "free",
@@ -7916,8 +7903,7 @@
       "url": "https://showmelocal.com/",
       "description": "Show Me Local is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, free to submit)",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 78,
       "submissionType": "free",
@@ -7967,8 +7953,7 @@
       "url": "https://callupcontact.com/",
       "description": "Callupcontact is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, free to submit, rel…",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 76,
       "submissionType": "free",
@@ -8035,8 +8020,7 @@
       "url": "https://cybo.com/",
       "description": "Cybo is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, free to submit, relatively e…",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 75,
       "submissionType": "free",
@@ -8120,8 +8104,7 @@
       "url": "https://elocal.com/",
       "description": "eLocal is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (dofollow listing, paid submission tiers)",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 74,
       "submissionType": "paid",
@@ -9312,8 +9295,7 @@
       "url": "https://www.webwiki.co.uk/",
       "description": "Webwiki UK is a general web directory — treat as a minor backlink/citation, not a traffic channel. Verify the site is active and indexed. (free to submit, relatively easy submit)",
       "type": [
-        "SaaS Directory",
-        "General Directory"
+        "Local Service"
       ],
       "domainRating": 61,
       "submissionType": "free",
